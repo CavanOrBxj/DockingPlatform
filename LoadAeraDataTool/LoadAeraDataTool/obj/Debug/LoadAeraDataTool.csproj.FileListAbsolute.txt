@@ -1,0 +1,9 @@
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\bin\Debug\LoadAeraDataTool.exe
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\bin\Debug\LoadAeraDataTool.pdb
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\obj\Debug\LoadAeraDataTool.csprojAssemblyReference.cache
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\obj\Debug\LoadAeraDataTool.Form1.resources
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\obj\Debug\LoadAeraDataTool.Properties.Resources.resources
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\obj\Debug\LoadAeraDataTool.csproj.GenerateResource.cache
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\obj\Debug\LoadAeraDataTool.csproj.CoreCompileInputs.cache
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\obj\Debug\LoadAeraDataTool.exe
+E:\GitHub\Integration-platform-Docking-procedure-universal-version\LoadAeraDataTool\LoadAeraDataTool\obj\Debug\LoadAeraDataTool.pdb
