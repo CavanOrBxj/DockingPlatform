@@ -1,0 +1,4 @@
+linux SDF需要把cardcfg.ini放入/etc目录下，同时配置里面的host,使其指向加密卡服务地址。
+
+windows SDF的cardcfg.ini需要于pci_api.dll在同一目录下，同时配置里面的host,使其指向加密卡服务地址。
+

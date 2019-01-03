@@ -1,0 +1,29 @@
+<2017-02-24 09:52:18> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-02-24 09:52:20> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-14 13:53:08> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-14 13:53:21> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-21 15:46:42> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-21 15:46:50> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-21 15:47:02> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-21 15:47:06> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-21 15:47:34> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-21 15:48:30> pci_read_file [DEV_client_file_process] error. read file error. ret = 0xfa000003.
+<2017-08-21 15:48:30> PCI_ReadFile [crypto_read_file] error. ret = 0xfa000003.
+<2017-08-21 15:49:50> pci_read_file [DEV_client_file_process] error. read file error. ret = 0xfa000003.
+<2017-08-21 15:49:50> PCI_ReadFile [crypto_read_file] error. ret = 0xfa000003.
+<2017-08-21 15:50:05> pci_hash_update [hsm_client_hash_process] Hash Update ERROR, rv is [f000000f]
+<2017-08-21 15:50:05> PCI_HashUpdate [crypto_hash_update] error. ret = 0xf000000f.
+<2017-08-21 15:50:47> pci_hash_update [hsm_client_hash_process] Hash Update ERROR, rv is [f000000f]
+<2017-08-21 15:50:47> PCI_HashUpdate [crypto_hash_update] error. ret = 0xf000000f.
+<2017-08-21 15:54:01> pci_pri_login [DEV_client_priLogin_process] Private Key Login ERROR, pwd is[a1234567], rv is [fa000004]
+<2017-08-21 15:54:01> PCI_GetPrivateKeyAccessRight crypto_pri_login, Private login ret = 0xfa000004.
+<2017-08-21 15:54:04> pci_pri_login [DEV_client_priLogin_process] Private Key Login ERROR, pwd is[a1234567], rv is [fa000004]
+<2017-08-21 15:54:04> PCI_GetPrivateKeyAccessRight crypto_pri_login, Private login ret = 0xfa000004.
+<2017-08-21 15:54:07> pci_pri_login [DEV_client_priLogin_process] Private Key Login ERROR, pwd is[a1234567], rv is [fa000004]
+<2017-08-21 15:54:07> PCI_GetPrivateKeyAccessRight crypto_pri_login, Private login ret = 0xfa000004.
+<2017-08-21 15:54:36> pci_pri_login [DEV_client_priLogin_process] Private Key Login ERROR, pwd is[a1234567], rv is [fa000004]
+<2017-08-21 15:54:36> PCI_GetPrivateKeyAccessRight crypto_pri_login, Private login ret = 0xfa000004.
+<2017-08-21 17:14:31> pci_pri_login [DEV_client_priLogin_process] Private Key Login ERROR, pwd is[a1234567], rv is [fa000004]
+<2017-08-21 17:14:31> PCI_GetPrivateKeyAccessRight crypto_pri_login, Private login ret = 0xfa000004.
+<2017-08-23 09:37:47> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-23 09:37:50> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
