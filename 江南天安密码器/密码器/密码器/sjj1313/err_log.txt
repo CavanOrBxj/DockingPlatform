@@ -1,0 +1,34 @@
+<2017-08-14 14:41:30> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-15 09:30:29> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-08-23 09:36:36> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-09-15 10:03:17> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-09-15 10:03:23> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-09-15 10:03:29> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-09-15 10:03:32> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-09-15 10:56:20> pci_hash_final [hsm_client_hash_process] Hash final ERROR, rv is [f000000b]
+<2017-09-15 10:56:20> pci_hash_update [hsm_client_hash_process] Hash Update ERROR, rv is [f000000a]
+<2017-09-15 10:56:20> PCI_HashUpdate [crypto_hash_update] error. ret = 0x01000022.
+<2017-09-15 10:58:48> pci_hash_init [DEV_client_hash_process] Hash init ERROR, rv is [f000000f]
+<2017-09-15 10:58:48> PCI_HashInit [crypto_hash_init] error. ret = 0xf000000f.
+<2017-09-15 11:01:10> pci_hash_init [DEV_client_hash_process] Hash init ERROR, rv is [f000000f]
+<2017-09-15 11:01:10> PCI_HashInit [crypto_hash_init] error. ret = 0xf000000f.
+<2017-09-15 11:01:30> pci_hash_update [hsm_client_hash_process] Hash Update ERROR, rv is [f000000f]
+<2017-09-15 11:01:30> PCI_HashUpdate [crypto_hash_update] error. ret = 0xf000000f.
+<2017-09-15 11:01:52> pci_hash_init [DEV_client_hash_process] Hash init ERROR, rv is [f000000f]
+<2017-09-15 11:01:52> PCI_HashInit [crypto_hash_init] error. ret = 0xf000000f.
+<2017-09-15 11:02:12> pci_hash_update [hsm_client_hash_process] Hash Update ERROR, rv is [f000000f]
+<2017-09-15 11:02:12> PCI_HashUpdate [crypto_hash_update] error. ret = 0xf000000f.
+<2017-09-18 16:40:34> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-10-30 09:57:54> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-11-01 13:06:47> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-11-01 13:06:52> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-11-01 13:07:00> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-11-01 13:07:20> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-11-01 13:07:23> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
+<2017-11-01 13:09:02> pci_sm2_sign [DEV_client_sm2_process] ERROR, error code is f000000f
+<2017-11-01 13:09:02> PCI_InternalSign_ECC [crypto_sm2_sign]. ret = 0xf000000f.
+<2017-11-01 13:11:12> pci_sm2_sign [DEV_client_sm2_process] ERROR, error code is f000000b
+<2017-11-01 13:11:12> PCI_InternalSign_ECC [crypto_sm2_sign]. ret = 0xf000000b.
+<2017-11-01 13:11:52> pci_sm2_sign [DEV_client_sm2_process] ERROR, error code is f000000f
+<2017-11-01 13:11:52> PCI_InternalSign_ECC [crypto_sm2_sign]. ret = 0xf000000f.
+<2018-01-04 13:13:44> SD_PCI_Initialize [TCP_ConnectPCI], Connect Server Failed. [127.0.0.1:8888] ret = 0xf0000007.
